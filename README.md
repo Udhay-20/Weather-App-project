@@ -1,10 +1,6 @@
 # Weather-App-project
 
-# 🌦️ Weather App
-
 This is a simple and responsive weather application built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data using the **OpenWeatherMap API** based on the city entered by the user.
-
----
 
 ## 🚀 Features
 
